@@ -1,0 +1,14 @@
+{
+  "name": "backend_automation",
+  "version": "1.0.0",
+  "description": "Backend Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Matheus Hirata",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.0.1"
+  }
+}
